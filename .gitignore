@@ -33,3 +33,12 @@
 
 # VsCode
 .vscode/
+
+# Docusaurus
+/website/node_modules
+/website/build
+/website/.docusaurus
+bun-error.log
+
+# Local files
+*.local.*
